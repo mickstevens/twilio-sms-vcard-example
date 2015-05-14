@@ -33,7 +33,7 @@
 			?><Message><Media>http://www.gravatar.com/avatar/<?php echo hash('md5', $config['gravatar_email']); ?>?s=480</Media></Message><?php
 		}
 		elseif(strtolower($_REQUEST['Body']) == 'vcard'){
-			?><Message><Media>Patrick_Labbett.vcf</Media></Message><?php
+			?><Message><Media><?php echo $config['vcard_url']; ?></Media></Message><?php
 		}
 		elseif(strtolower($_REQUEST['Body']) == 'hi'){
 				
