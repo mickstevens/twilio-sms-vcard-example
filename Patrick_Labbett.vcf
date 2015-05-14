@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//NotifiUs, LLC//notifi.us//EN
+N:Labbett;Patrick;;;
+FN:Patrick Labbett
+EMAIL:patrick@notifi.us
+EMAIL:patrick@labbett.net
+ORG:NotifiUs, LLC;
+TEL:888-966-9830
+TEL:614-682-7015
+TEL;type=FAX:614-923-7829
+URL:https://notifi.us
+URL:https://labbett.net
+ADR:;423 E. Town Street;Suite 204;Columbus;OH;43215;United States
+END:VCARD
