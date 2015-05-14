@@ -1,7 +1,7 @@
 # twilio-sms-vcard-example
 Business cards by SMS text
 
-A quick and dirty SMS vCard powered by Twilio.
+A quick and dirty SMS vCard powered by Twilio. Respond with vcard, pic, and general info. Get data about who text you so you can follow up with them!
 
 
 ##Pre-Requisites
